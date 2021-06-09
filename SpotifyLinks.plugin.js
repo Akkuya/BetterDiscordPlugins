@@ -6,9 +6,9 @@
  * @description Opens Spotify Links in Spotify instead of your Browser code from devilbro
  * @invite Jx3TjNS
  * @donate https://www.paypal.me/MircoWittrien
- * @website https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/SteamProfileLink
- * @source https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/SteamProfileLink/SteamProfileLink.plugin.js
- * @updateUrl https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/SteamProfileLink/SteamProfileLink.plugin.js
+ * @website https://github.com/Akkuya/BetterDiscordPlugins/blob/main/SpotifyLinks.plugin.js
+ * @source https://raw.githubusercontent.com/Akkuya/BetterDiscordPlugins/main/SpotifyLinks.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/Akkuya/BetterDiscordPlugins/main/SpotifyLinks.plugin.js
  */
 
 
